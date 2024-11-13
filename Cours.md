@@ -28,8 +28,10 @@ Budget = Cout journalier \* nb jours
 
 Dimensionner = prevoir quel ressource seront affecte a quel tache
 
-## L'aspect Financier et Juridique
+## Chapitre 2 L'aspect Financier et Juridique
 
 1. Financier
    - le plus cher => ressources humaine
    - grille des coups (listing des ressources et leurs cout ) => à transformer en budget
+
+## Chapitre 3 Méthodo
