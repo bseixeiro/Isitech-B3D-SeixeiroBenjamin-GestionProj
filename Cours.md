@@ -43,4 +43,16 @@ Cahier des charges => Contenue intégrale du projet de A à Z (être capable de 
 
 ## Chapitre 5
 
+Méthode Agile - Permet de faire face a la rigidité au changement (effet tunnel)
+
+Product owner => vise a maximiser la valeur du produit
+PM => oriente le developpement et traduis le besoin client en technique
+SCRUM Master => chef d orchestre (organise, gère les ressources, ...)
+Delivery Managerr => DevOps
+SCRUM =>
+Backlog => toute les taches fonctionnel a realiser pour le proj
+User Stori => description d une fonctionnalite pdv utilisateur
+
+Méthode Kanban => obj limiter un max les temps de livraisons
+
 ## Chapitre 6
