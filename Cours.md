@@ -35,3 +35,12 @@ Dimensionner = prevoir quel ressource seront affecte a quel tache
    - grille des coups (listing des ressources et leurs cout ) => à transformer en budget
 
 ## Chapitre 3 Méthodo
+
+## Chapitre 4
+
+Model en Cascade => Prendre les choses les unes apres les autres sans voir d'impact au long terme
+Cahier des charges => Contenue intégrale du projet de A à Z (être capable de creer l app juste en le suivant), tous doit être détaillé, c'est pas figée
+
+## Chapitre 5
+
+## Chapitre 6
