@@ -53,6 +53,6 @@ SCRUM =>
 Backlog => toute les taches fonctionnel a realiser pour le proj
 User Stori => description d une fonctionnalite pdv utilisateur
 
-Méthode Kanban => obj limiter un max les temps de livraisons
+Méthode Kanban => obj limiter un max les temps de livraisons, dev en flux continue, très flexible
 
 ## Chapitre 6
